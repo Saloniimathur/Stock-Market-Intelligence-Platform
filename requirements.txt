@@ -17,6 +17,9 @@ prophet==1.1.5
 scikit-learn==1.4.2
 matplotlib==3.9.0
 
+statsmodels==0.14.2
+pmdarima==2.0.4
+
 # Utilities
 pyyaml==6.0.1
 loguru==0.7.2
